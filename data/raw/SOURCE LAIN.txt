@@ -1,4 +1,0 @@
-Data sumber:
-Peta batas administrasi provinsi seluruh Indonesia (https://www.indonesia-geospasial.com/2023/05/download-shapefile-batas-administrasi.html)
-Peta tutupan lahan seluruh Indonesia (https://gadm.org/formats.html)
-Peta tutupan lahan pulau Jawa (https://livingatlas.arcgis.com/landcoverexplorer/#mapCenter=112.57190%2C-8.13086%2C12.92&mode=step&timeExtent=2017%2C2025&year=2025)
