@@ -1,6 +1,7 @@
 # East Java Landcover QGIS
 
-Peta penutupan lahan (landcover) Jawa Timur menggunakan QGIS.
+Peta tutupan lahan (landcover) Provinsi Jawa Timur menggunakan QGIS.
+Hasil peta dari projek ini tidak dapat dijadikan sebagai acuan dan dijadikan dasar peta sesungguhnya. Saya tidak bertanggung jawab apabila terdapat perbedaan batas di lapangan dan penyalahgunaan atas data dari projek ini. 
 
 ## 📁 Struktur Folder
 
@@ -16,9 +17,13 @@ Peta penutupan lahan (landcover) Jawa Timur menggunakan QGIS.
 
 ## 🛠️ Tools
 
-- QGIS 3.x
-- Data sumber: (isi sesuai sumber datamu)
+- QGIS 3.44.10 Solothurn
+- Data sumber: 
+1. Peta batas administrasi provinsi seluruh Indonesia (https://www.indonesia-geospasial.com/2023/05/download-shapefile-batas-administrasi.html)
+2. Peta tutupan lahan seluruh Indonesia (https://gadm.org/formats.html)
+
+
 
 ## 📄 Lisensi
 
-MIT License
+MIT License (https://tlo.mit.edu/understand-ip/exploring-mit-open-source-license-comprehensive-guide)
